@@ -143,11 +143,11 @@ STATIC_ROOT = BASE_DIR / 'staticfiles'
 STATICFILES_STORAGE = 'django.contrib.staticfiles.storage.StaticFilesStorage'
 # React local host se req aayegi..
 CORS_ALLOWED_ORIGINS = [
-    "https://codentra-frontend-igpxjz5gg-vansh-d46b.vercel.app",
+    "https://codentra-frontend-i9eim57j3-vansh-d46b.vercel.app",
 
 ]
 CSRF_TRUSTED_ORIGINS = [
-    "https://codentra-frontend-igpxjz5gg-vansh-d46b.vercel.app",
+    "https://codentra-frontend-i9eim57j3-vansh-d46b.vercel.app",
 ]
 MEDIA_URL = "/media/"
 MEDIA_ROOT = BASE_DIR / "media"
